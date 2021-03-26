@@ -1,0 +1,11 @@
+0 Alstonia
+1 Arjun
+2 Basil
+3 Chinar
+4 Cauva
+5 Jamun
+6 Jatropha
+7 Lemon
+8 Mango
+9 Pomergranat
+10 Pongamia
